@@ -1,5 +1,6 @@
 # ofxMultiDeviceSoundPlayer
-Output sound to separate soundcards
+
+Output sound to separate soundcards from openFrameworks
 
 
 FMOD player mod by [Zach Gage](http://forum.openframeworks.cc/t/multi-device-targeting-with-fmod/951)
